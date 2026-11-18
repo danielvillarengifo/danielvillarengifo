@@ -2,15 +2,17 @@
 
 **Data scientist & statistician · Medellín, Colombia**
 
-I turn public and institutional data into evidence for decisions. My work spans spatial statistics, time series, survival and Bayesian models, survey sampling and text mining, mostly in R and Python. Trained in Statistics at Universidad Nacional de Colombia (Medellín), where I am now in the M.Eng. in Analytics.
+I turn public and institutional data into evidence for decisions. My work spans spatial statistics, time series, survival and Bayesian models, survey sampling, text mining and neural networks, mostly in R and Python. Trained in Statistics at Universidad Nacional de Colombia (Medellín), where I am now in the M.Eng. in Analytics.
 
-**ES** — Científico de datos y estadístico en Medellín. Convierto datos públicos e institucionales en evidencia para tomar decisiones: estadística espacial, series de tiempo, modelos de supervivencia y bayesianos, muestreo y minería de texto, sobre todo en R y Python. Formado en Estadística en la Universidad Nacional de Colombia, sede Medellín, donde curso la Maestría en Ingeniería – Analítica.
+**ES** — Científico de datos y estadístico en Medellín. Convierto datos públicos e institucionales en evidencia para tomar decisiones: estadística espacial, series de tiempo, modelos de supervivencia y bayesianos, muestreo, minería de texto y redes neuronales, sobre todo en R y Python. Formado en Estadística en la Universidad Nacional de Colombia, sede Medellín, donde curso la Maestría en Ingeniería – Analítica.
 
 ## Featured projects · Proyectos destacados
 
 | Project | What it does | Stack |
 |---|---|---|
 | [Femicide in Antioquia](https://github.com/danielvillarengifo/feminicidio-antioquia-espacial-nlp) | M.Eng. thesis on why lethal violence against women varies across municipalities. Combines open data from Fiscalía, Policía and Medicina Legal with news and social-media text, each source graded with the Admiralty code. | Python · R · Typst · open-data APIs · NLP |
+| [AI-style text in UNAL theses](https://github.com/danielvillarengifo/deteccion-texto-ia-tesis-unal) | How much AI-style text is there in Statistics and Mathematics theses? Seven detectors of LLM-written academic Spanish, from a multilayer perceptron on stylometric features to frozen transformer encoders (BETO, multilingual-E5), and a Bayesian prevalence model that corrects detector error and estimates the yearly share of theses. | Python · scikit-learn · transformers · R · Stan · Quarto · Typst |
+| [Topics and shape of UNAL theses](https://github.com/danielvillarengifo/topologia-temas-tesis-unal) | Did theses change after generative AI? Kohonen self-organizing maps, a window classifier, persistent homology with permutation tests and full-text vocabulary counts, each comparison paired with a pre-AI control. | Python · scikit-learn · ripser · R · Quarto · Typst |
 | [Temperature geostatistics, Antioquia](https://github.com/danielvillarengifo/geoestadistica-temperatura-antioquia) | Mantel test, Matérn and exponential variograms, and ordinary and universal kriging of maximum temperature over the department, validated by cross-validation. | R · geoR · gstat · sf · Quarto |
 | [Bayesian logistic regression](https://github.com/danielvillarengifo/regresion-logistica-bayesiana) | Breast-cancer diagnosis model on BCSC mammography data, with full MCMC diagnostics (R-hat, ESS, trace, energy). | R · brms · Stan · Python · Bambi |
 | [ARIMA time series](https://github.com/danielvillarengifo/series-tiempo-arima-python) | Box–Jenkins workflow on three daily series: ACF/PACF, Dickey–Fuller, AIC/BIC selection, residual diagnostics and forecasts. | Python · statsmodels |
@@ -24,7 +26,7 @@ I turn public and institutional data into evidence for decisions. My work spans 
 
 ## Toolbox
 
-**R** (tidyverse, sf, geoR, gstat, survival, brms, glmnet, caret, Quarto) · **Python** (pandas, NumPy, statsmodels, Jupyter) · **SQL** · **Git** · **Typst** · **ArcGIS Online**
+**R** (tidyverse, sf, geoR, gstat, survival, brms, rstan, glmnet, caret, Quarto) · **Python** (pandas, NumPy, scikit-learn, statsmodels, transformers, Jupyter) · **SQL** · **Git** · **Typst** · **ArcGIS Online**
 
 ## Learning log · Archivo
 

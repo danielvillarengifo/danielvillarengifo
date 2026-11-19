@@ -2,6 +2,8 @@
 
 **Data scientist & statistician · Medellín, Colombia**
 
+**Portfolio · Portafolio:** [danielvillarengifo.github.io](https://danielvillarengifo.github.io) — projects, CV and an interactive spatial-statistics lab · proyectos, CV y un laboratorio interactivo de estadística espacial
+
 I turn public and institutional data into evidence for decisions. My work spans spatial statistics, time series, survival and Bayesian models, survey sampling, text mining and neural networks, mostly in R and Python. Trained in Statistics at Universidad Nacional de Colombia (Medellín), where I am now in the M.Eng. in Analytics.
 
 **ES** — Científico de datos y estadístico en Medellín. Convierto datos públicos e institucionales en evidencia para tomar decisiones: estadística espacial, series de tiempo, modelos de supervivencia y bayesianos, muestreo, minería de texto y redes neuronales, sobre todo en R y Python. Formado en Estadística en la Universidad Nacional de Colombia, sede Medellín, donde curso la Maestría en Ingeniería – Analítica.
